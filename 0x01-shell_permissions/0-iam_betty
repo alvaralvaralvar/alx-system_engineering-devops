@@ -1,2 +1,2 @@
 #!/bin/bash
-su other_user
+su betty
